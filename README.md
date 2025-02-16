@@ -1,6 +1,4 @@
-Here's a structured README for your project:  
 
----
 
 # **Community Connect: Bridging the Digital Divide in Government Schools**  
 
